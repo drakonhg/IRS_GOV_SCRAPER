@@ -22,7 +22,7 @@ There are two main files: parse_data.py and download_pdf.py. Each run by command
 
 To get json_data of specified forms
 ```shell script
-python parse_data.py Form W-2, Form 1095-C,  Publ 3
+python parse_data.py Form W-2, Form 1095-C, Publ 3
 
 ```
 All of the forms should be listed with comma, else it would not work
