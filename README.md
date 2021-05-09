@@ -13,7 +13,7 @@ This is a scraper for https://apps.irs.gov/app/picklist/list/priorFormPublicatio
 
 
 ## No selenium
-I did not used selenium because it consumes more cpu and ram, than requests and bs4. It is also a faster way to scrape data. As there is no need to render JavaScript scirpts and bypass security (e.g akamai, etc), it is a best option to use.
+I did not use selenium because it consumes more cpu and ram, than requests and bs4. It is also a faster way to scrape data. As there is no need to render JavaScript scirpts and bypass security (e.g akamai, etc), it is a best option to use.
 
 ## Usage
 
@@ -46,7 +46,7 @@ python download_pdf.py Form W-2 P 1988-1990
 
 ## Requirements
 
-If you woud like to git clone it or copy the code, there is a requirements.txt that stores all libraries that are needed for script to work
+If you woud like to git clone it or copy the code, there is a requirements.txt that stores all libraries that are needed for script to work.
 
 
 
